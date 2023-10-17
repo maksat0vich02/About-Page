@@ -1,0 +1,102 @@
+@media(max-width:1440px) {
+  .container {
+    width: 90%;
+  }
+}
+
+@media(max-width:1200px) {
+  .container {
+    width: 90%;
+  }
+}
+
+@media(max-width:1024px) {
+  .container {
+    width: 90%;
+  }
+  .work-img-1 {
+    width: 500px;
+    height: 480px;
+  }
+  .apple-1 img {
+    width: 550px;
+    height: 600px;
+  }
+  .apple-block {
+    width: 500px;
+    height: 200px;
+  }
+  .apple-2 button {
+    top: -100px;
+  }
+}
+
+@media(max-width:992px) {
+  .container {
+    width: 90%;
+  }
+}
+
+@media(max-width:768px) {
+  .container {
+    width: 90%;
+  }
+  .hero-a {
+    display: none;
+  } 
+  .work-blocks {
+    width: 200px;
+    height: 200px;
+background: var(--Dark-Primary, #2A254B);
+  }
+
+  .work-1 h1 {
+    font-size: 1px;
+    font-weight: 200;
+    padding: 0px;
+  }
+  .work-1 p {
+    font-size: 12px;
+    font-weight: 400;
+    margin-left: 0px;
+  }
+  .work-1 button {
+font-size: 16px;
+font-weight: 400;
+padding: 0;
+  }
+}
+
+@media(max-width:576px) {
+  .container {
+    width: 90%;
+  }
+}
+
+@media(max-width:451px) {
+  .container {
+    width: 90%;
+  }
+}
+
+@media(max-width:400px) {
+  .container {
+    width: 90%;
+  }
+}
+
+@media(max-width:376px) {
+  .container {
+    width: 90%;
+  }
+}
+
+@media(max-width:320px) {
+  .container {
+    width: 90%;
+  }
+  /* .work {
+    flex-wrap: wrap;
+  
+  }
+} */
